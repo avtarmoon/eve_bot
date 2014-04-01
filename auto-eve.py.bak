@@ -15,4 +15,4 @@ if __name__ == '__main__':
         if pilot.check_inspace():
             pilot.active_undock()
         else:
-            print "Hello,"+"alywin"
+            pass
